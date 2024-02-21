@@ -2,19 +2,19 @@
   {
     "name": "vocal sample",
     "file": "samples/projectvocal.mp3",
-    "bpm": "120",
-    "loop": "1.6m"
+    "bpm": "103",
+    "loop": "2m"
   },
   {
     "name": "beat sample",
     "file": "samples/projectbeat_sample.mp3",
-    "bpm": "120",
-    "loop": "4m"
+    "bpm": "170",
+    "loop": "2m"
   },
   {
     "name": "bell sample",
     "file": "samples/projectbells_sample.mp3",
-    "bpm": "120",
-    "loop": "4m"
+    "bpm": "170",
+    "loop": "2m"
   }
 ]
