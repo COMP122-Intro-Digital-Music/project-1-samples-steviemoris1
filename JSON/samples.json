@@ -2,7 +2,7 @@
   {
     "name": "vocal sample",
     "file": "samples/projectvocal.mp3",
-    "bpm": "170",
+    "bpm": "103",
     "loop": "1m"
   },
   {
@@ -14,7 +14,7 @@
   {
     "name": "bell sample",
     "file": "samples/projectbells_sample.mp3",
-    "bpm": "85",
+    "bpm": "170",
     "loop": "2m"
   }
 ]
