@@ -1,1 +1,17 @@
-[ ]
+[
+  {
+    "name": "Kick.wav",
+    "pitch": "A3",
+    "pattern": "1001001001001000"
+  },
+  {
+    "name": "HiHat_Closed.wav",
+    "pitch": "F4",
+    "pattern": "1111111111111111"
+  },
+  {
+    "name": "Snare.wav",
+    "pitch": "B3",
+    "pattern": "0000100000001000"
+  }
+]
